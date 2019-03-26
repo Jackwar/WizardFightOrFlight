@@ -37,3 +37,5 @@ Space level columns by Hyptosis https://opengameart.org/content/lots-of-free-2d-
 Fire button by StumpyStrust https://opengameart.org/content/ui-orbs
 
 Forest level background by PWL https://opengameart.org/content/seamless-hd-landscape-in-parts
+
+Forest level columns by © 2012-2013 Julien Jorge <julien.jorge@stuff-o-matic.com> https://opengameart.org/content/forest-themed-sprites
