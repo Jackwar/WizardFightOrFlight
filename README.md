@@ -30,3 +30,10 @@ Snow Level background by p0ss https://opengameart.org/content/snowy-mountains-ba
 
 Volcano level background and columns by LudicArts https://opengameart.org/content/free-volcano-platform-tileset http://www.ludicarts.com
 
+Space level background by LuminousDragonGames https://opengameart.org/content/perfectly-seamless-night-sky
+
+Space level columns by Hyptosis https://opengameart.org/content/lots-of-free-2d-tiles-and-sprites-by-hyptosis
+
+Fire button by StumpyStrust https://opengameart.org/content/ui-orbs
+
+Forest level background by PWL https://opengameart.org/content/seamless-hd-landscape-in-parts
