@@ -12,3 +12,6 @@ Space Level music "Journey to the East Rocks" by Alexandr Zhelanov https://openg
 
 Forest Level music "Winds Of Stories" by HorrorPen https://opengameart.org/content/winds-of-stories
 
+Boss music "Fast fight / battle music" by Ville Nousiainen https://opengameart.org/content/fast-fight-battle-music http://soundcloud.com/mutkanto
+
+Player character and Boss character by Stephen Challener (Redshrike) and Doudoulolita https://opengameart.org/content/sorlo-ultimate-smash-friends
