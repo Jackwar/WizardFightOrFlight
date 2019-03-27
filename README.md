@@ -2,6 +2,8 @@
 Final project for iOS development at Salt Lake Community College. A flappy birds clone with multiple levels, flying monsters, fireballs, and an impossible boss.
 Assets used from OpenGameArt.org. You can find their respective licenses in the links below.
 
+Intro book background and Game Over background by yd https://opengameart.org/content/spellbook-template
+
 Intro music "Soft Mysterious Harp Loop" by VWolfdog https://opengameart.org/content/soft-mysterious-harp-loop
 
 Game Over music "No More Magic" by HorrorPen https://opengameart.org/content/no-more-magic
