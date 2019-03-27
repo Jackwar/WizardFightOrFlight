@@ -19,6 +19,8 @@ Monster art by dogchicken https://opengameart.org/content/flying-tongue-monster-
 
 Fire button by StumpyStrust https://opengameart.org/content/ui-orbs License - [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+Boss battle background by Westbeam https://opengameart.org/content/space-background-1 License - 
+
 Sunset Temple Level music "Rise of Spirit" by Alexandr Zhelanov https://opengameart.org/content/rise-of-spirit https://soundcloud.com/alexandr-zhelanov License - [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 Sunset Temple background and columns by Pyromantic https://opengameart.org/content/sunset-temple-tiles License - [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/), [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
