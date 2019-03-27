@@ -1,6 +1,7 @@
 # WizardFightOrFlight
 Final project for iOS development at Salt Lake Community College. A flappy birds clone with multiple levels, flying monsters, fireballs, and an impossible boss.
-Assets used from OpenGameArt.org. You can find their respective licenses in the links below.
+
+Assets used from OpenGameArt.org. You can find their respective works and licenses below.
 
 Intro book background and Game Over background by yd https://opengameart.org/content/spellbook-template License - [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
